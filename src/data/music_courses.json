@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Beginner Guitar Mastery",
+        "slug": "beginner-guitar-mastery",
+        "description": "Learn the fundamentals of playing the guitar, including chords, strumming, and basic melodies.",
+        "price": 4999,
+        "instructor": "Amit Sharma",
+        "isFeatured": true,
+        "image": "https://example.com/images/beginner-guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Advanced Piano Techniques",
+        "slug": "advanced-piano-techniques",
+        "description": "Enhance your piano skills with advanced scales, improvisation, and classical compositions.",
+        "price": 7999,
+        "instructor": "Priya Menon",
+        "isFeatured": false,
+        "image": "https://example.com/images/advanced-piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Classical Violin Essentials",
+        "slug": "classical-violin-essentials",
+        "description": "Master the basics of violin playing, including bowing techniques and classical pieces.",
+        "price": 5999,
+        "instructor": "Rohan Iyer",
+        "isFeatured": true,
+        "image": "https://example.com/images/classical-violin.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Music Theory Fundamentals",
+        "slug": "music-theory-fundamentals",
+        "description": "Understand the core concepts of music theory, including scales, chords, and harmonization.",
+        "price": 2999,
+        "instructor": "Sneha Kapoor",
+        "isFeatured": false,
+        "image": "https://example.com/images/music-theory.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Indian Classical Vocals",
+        "slug": "indian-classical-vocals",
+        "description": "Learn the fundamentals of Hindustani classical singing, including ragas and taals.",
+        "price": 6999,
+        "instructor": "Vikram Joshi",
+        "isFeatured": true,
+        "image": "https://example.com/images/classical-vocals.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Dive into the world of electronic music, beat making, and sound design using modern DAWs.",
+        "price": 9999,
+        "instructor": "Ankit Verma",
+        "isFeatured": false,
+        "image": "https://example.com/images/emp.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Jazz Saxophone Improvisation",
+        "slug": "jazz-saxophone-improvisation",
+        "description": "Explore jazz improvisation techniques and develop your own unique saxophone sound.",
+        "price": 7499,
+        "instructor": "Rahul Saxena",
+        "isFeatured": true,
+        "image": "https://example.com/images/jazz-saxophone.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Drumming for Beginners",
+        "slug": "drumming-for-beginners",
+        "description": "Start your drumming journey with rhythm basics, drum grooves, and hand techniques.",
+        "price": 4499,
+        "instructor": "Siddharth Pillai",
+        "isFeatured": false,
+        "image": "https://example.com/images/drumming.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Bollywood Playback Singing",
+        "slug": "bollywood-playback-singing",
+        "description": "Train your voice for Bollywood-style singing, breath control, and vocal modulation.",
+        "price": 8499,
+        "instructor": "Neha Kapoor",
+        "isFeatured": true,
+        "image": "https://example.com/images/bollywood-singing.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Ukulele for Beginners",
+        "slug": "ukulele-for-beginners",
+        "description": "Learn to play the ukulele with basic chords, strumming techniques, and fun songs.",
+        "price": 3999,
+        "instructor": "Arjun Mehta",
+        "isFeatured": false,
+        "image": "https://example.com/images/ukulele.jpg"
+      }
+    ]
+  }
+  
