@@ -4,7 +4,7 @@ import { Button } from "./ui/moving-border";
 
 export default function HeroSection() {
   return (
-    <div className="flex flex-col item-center justify-center h-auto md:h-[40rem] w-full rounded-md relative overflow-hidden mx-auto py-10 md:py-0">
+    <div className="flex flex-col items-center justify-center h-screen w-full rounded-md relative overflow-hidden mx-auto py-10 md:py-0">
       <Spotlight
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="url(#spotlightGradient)"
