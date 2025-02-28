@@ -4,7 +4,7 @@ import { HoverEffect } from "./ui/card-hover-effect";
 export function UpcomingWebinars() {
   return (
     
-    <div className="py-12 bg-gray-950">
+    <div className="py-12 bg-gray-950 overflow-hidden">
     <div>
       <div className="text-center">
         <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">
